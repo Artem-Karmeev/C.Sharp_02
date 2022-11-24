@@ -1,0 +1,15 @@
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Массивы\obj\Debug\net7.0\С8 Массивы.csproj.AssemblyReference.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Массивы\obj\Debug\net7.0\С8 Массивы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Массивы\obj\Debug\net7.0\С8 Массивы.AssemblyInfoInputs.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Массивы\obj\Debug\net7.0\С8 Массивы.AssemblyInfo.cs
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Массивы\obj\Debug\net7.0\С8 Массивы.csproj.CoreCompileInputs.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Массивы\bin\Debug\net7.0\С8 Массивы.exe
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Массивы\bin\Debug\net7.0\С8 Массивы.deps.json
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Массивы\bin\Debug\net7.0\С8 Массивы.runtimeconfig.json
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Массивы\bin\Debug\net7.0\С8 Массивы.dll
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Массивы\bin\Debug\net7.0\С8 Массивы.pdb
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Массивы\obj\Debug\net7.0\С8 Массивы.dll
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Массивы\obj\Debug\net7.0\refint\С8 Массивы.dll
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Массивы\obj\Debug\net7.0\С8 Массивы.pdb
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Массивы\obj\Debug\net7.0\С8 Массивы.genruntimeconfig.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Массивы\obj\Debug\net7.0\ref\С8 Массивы.dll

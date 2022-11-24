@@ -1,0 +1,15 @@
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\C8 Задача 69\obj\Debug\net7.0\C8 Задача 69.csproj.AssemblyReference.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\C8 Задача 69\obj\Debug\net7.0\C8 Задача 69.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\C8 Задача 69\obj\Debug\net7.0\C8 Задача 69.AssemblyInfoInputs.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\C8 Задача 69\obj\Debug\net7.0\C8 Задача 69.AssemblyInfo.cs
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\C8 Задача 69\obj\Debug\net7.0\C8 Задача 69.csproj.CoreCompileInputs.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\C8 Задача 69\bin\Debug\net7.0\C8 Задача 69.exe
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\C8 Задача 69\bin\Debug\net7.0\C8 Задача 69.deps.json
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\C8 Задача 69\bin\Debug\net7.0\C8 Задача 69.runtimeconfig.json
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\C8 Задача 69\bin\Debug\net7.0\C8 Задача 69.dll
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\C8 Задача 69\bin\Debug\net7.0\C8 Задача 69.pdb
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\C8 Задача 69\obj\Debug\net7.0\C8 Задача 69.dll
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\C8 Задача 69\obj\Debug\net7.0\refint\C8 Задача 69.dll
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\C8 Задача 69\obj\Debug\net7.0\C8 Задача 69.pdb
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\C8 Задача 69\obj\Debug\net7.0\C8 Задача 69.genruntimeconfig.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\C8 Задача 69\obj\Debug\net7.0\ref\C8 Задача 69.dll

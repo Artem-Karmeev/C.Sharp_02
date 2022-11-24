@@ -1,0 +1,15 @@
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\Фибоначчи до н\bin\Debug\net7.0\Фибоначчи до н.exe
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\Фибоначчи до н\bin\Debug\net7.0\Фибоначчи до н.deps.json
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\Фибоначчи до н\bin\Debug\net7.0\Фибоначчи до н.runtimeconfig.json
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\Фибоначчи до н\bin\Debug\net7.0\Фибоначчи до н.dll
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\Фибоначчи до н\bin\Debug\net7.0\Фибоначчи до н.pdb
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\Фибоначчи до н\obj\Debug\net7.0\Фибоначчи до н.csproj.AssemblyReference.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\Фибоначчи до н\obj\Debug\net7.0\Фибоначчи до н.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\Фибоначчи до н\obj\Debug\net7.0\Фибоначчи до н.AssemblyInfoInputs.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\Фибоначчи до н\obj\Debug\net7.0\Фибоначчи до н.AssemblyInfo.cs
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\Фибоначчи до н\obj\Debug\net7.0\Фибоначчи до н.csproj.CoreCompileInputs.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\Фибоначчи до н\obj\Debug\net7.0\Фибоначчи до н.dll
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\Фибоначчи до н\obj\Debug\net7.0\refint\Фибоначчи до н.dll
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\Фибоначчи до н\obj\Debug\net7.0\Фибоначчи до н.pdb
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\Фибоначчи до н\obj\Debug\net7.0\Фибоначчи до н.genruntimeconfig.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\Фибоначчи до н\obj\Debug\net7.0\ref\Фибоначчи до н.dll

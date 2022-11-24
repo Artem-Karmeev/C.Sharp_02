@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "С7 рандом двумерного массива/1.0.0": {
+        "runtime": {
+          "С7 рандом двумерного массива.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "С7 рандом двумерного массива/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

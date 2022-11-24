@@ -1,0 +1,15 @@
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\Возможен ли треугольник(семинар)\bin\Debug\net7.0\Возможен ли треугольник(семинар).exe
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\Возможен ли треугольник(семинар)\bin\Debug\net7.0\Возможен ли треугольник(семинар).deps.json
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\Возможен ли треугольник(семинар)\bin\Debug\net7.0\Возможен ли треугольник(семинар).runtimeconfig.json
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\Возможен ли треугольник(семинар)\bin\Debug\net7.0\Возможен ли треугольник(семинар).dll
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\Возможен ли треугольник(семинар)\bin\Debug\net7.0\Возможен ли треугольник(семинар).pdb
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\Возможен ли треугольник(семинар)\obj\Debug\net7.0\Возможен ли треугольник(семинар).csproj.AssemblyReference.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\Возможен ли треугольник(семинар)\obj\Debug\net7.0\Возможен ли треугольник(семинар).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\Возможен ли треугольник(семинар)\obj\Debug\net7.0\Возможен ли треугольник(семинар).AssemblyInfoInputs.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\Возможен ли треугольник(семинар)\obj\Debug\net7.0\Возможен ли треугольник(семинар).AssemblyInfo.cs
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\Возможен ли треугольник(семинар)\obj\Debug\net7.0\Возможен ли треугольник(семинар).csproj.CoreCompileInputs.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\Возможен ли треугольник(семинар)\obj\Debug\net7.0\Возможен ли треугольник(семинар).dll
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\Возможен ли треугольник(семинар)\obj\Debug\net7.0\refint\Возможен ли треугольник(семинар).dll
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\Возможен ли треугольник(семинар)\obj\Debug\net7.0\Возможен ли треугольник(семинар).pdb
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\Возможен ли треугольник(семинар)\obj\Debug\net7.0\Возможен ли треугольник(семинар).genruntimeconfig.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\Возможен ли треугольник(семинар)\obj\Debug\net7.0\ref\Возможен ли треугольник(семинар).dll

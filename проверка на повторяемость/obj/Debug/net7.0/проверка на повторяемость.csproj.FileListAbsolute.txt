@@ -1,0 +1,15 @@
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\проверка на повторяемость\obj\Debug\net7.0\проверка на повторяемость.csproj.AssemblyReference.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\проверка на повторяемость\obj\Debug\net7.0\проверка на повторяемость.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\проверка на повторяемость\obj\Debug\net7.0\проверка на повторяемость.AssemblyInfoInputs.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\проверка на повторяемость\obj\Debug\net7.0\проверка на повторяемость.AssemblyInfo.cs
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\проверка на повторяемость\obj\Debug\net7.0\проверка на повторяемость.csproj.CoreCompileInputs.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\проверка на повторяемость\bin\Debug\net7.0\проверка на повторяемость.exe
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\проверка на повторяемость\bin\Debug\net7.0\проверка на повторяемость.deps.json
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\проверка на повторяемость\bin\Debug\net7.0\проверка на повторяемость.runtimeconfig.json
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\проверка на повторяемость\bin\Debug\net7.0\проверка на повторяемость.dll
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\проверка на повторяемость\bin\Debug\net7.0\проверка на повторяемость.pdb
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\проверка на повторяемость\obj\Debug\net7.0\проверка на повторяемость.dll
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\проверка на повторяемость\obj\Debug\net7.0\refint\проверка на повторяемость.dll
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\проверка на повторяемость\obj\Debug\net7.0\проверка на повторяемость.pdb
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\проверка на повторяемость\obj\Debug\net7.0\проверка на повторяемость.genruntimeconfig.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\проверка на повторяемость\obj\Debug\net7.0\ref\проверка на повторяемость.dll

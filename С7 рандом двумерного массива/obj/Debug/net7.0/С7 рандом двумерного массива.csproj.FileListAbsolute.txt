@@ -1,0 +1,15 @@
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С7 рандом двумерного массива\obj\Debug\net7.0\С7 рандом двумерного массива.csproj.AssemblyReference.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С7 рандом двумерного массива\obj\Debug\net7.0\С7 рандом двумерного массива.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С7 рандом двумерного массива\obj\Debug\net7.0\С7 рандом двумерного массива.AssemblyInfoInputs.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С7 рандом двумерного массива\obj\Debug\net7.0\С7 рандом двумерного массива.AssemblyInfo.cs
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С7 рандом двумерного массива\obj\Debug\net7.0\С7 рандом двумерного массива.csproj.CoreCompileInputs.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С7 рандом двумерного массива\bin\Debug\net7.0\С7 рандом двумерного массива.exe
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С7 рандом двумерного массива\bin\Debug\net7.0\С7 рандом двумерного массива.deps.json
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С7 рандом двумерного массива\bin\Debug\net7.0\С7 рандом двумерного массива.runtimeconfig.json
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С7 рандом двумерного массива\bin\Debug\net7.0\С7 рандом двумерного массива.dll
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С7 рандом двумерного массива\bin\Debug\net7.0\С7 рандом двумерного массива.pdb
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С7 рандом двумерного массива\obj\Debug\net7.0\С7 рандом двумерного массива.dll
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С7 рандом двумерного массива\obj\Debug\net7.0\refint\С7 рандом двумерного массива.dll
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С7 рандом двумерного массива\obj\Debug\net7.0\С7 рандом двумерного массива.pdb
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С7 рандом двумерного массива\obj\Debug\net7.0\С7 рандом двумерного массива.genruntimeconfig.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С7 рандом двумерного массива\obj\Debug\net7.0\ref\С7 рандом двумерного массива.dll

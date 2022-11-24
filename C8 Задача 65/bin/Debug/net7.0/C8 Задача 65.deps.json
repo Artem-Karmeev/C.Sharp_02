@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "C8 Задача 65/1.0.0": {
+        "runtime": {
+          "C8 Задача 65.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C8 Задача 65/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

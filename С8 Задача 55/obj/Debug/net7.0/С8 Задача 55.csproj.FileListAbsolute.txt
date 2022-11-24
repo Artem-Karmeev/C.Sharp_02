@@ -1,0 +1,15 @@
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Задача 55\bin\Debug\net7.0\С8 Задача 55.exe
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Задача 55\bin\Debug\net7.0\С8 Задача 55.deps.json
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Задача 55\bin\Debug\net7.0\С8 Задача 55.runtimeconfig.json
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Задача 55\bin\Debug\net7.0\С8 Задача 55.dll
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Задача 55\bin\Debug\net7.0\С8 Задача 55.pdb
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Задача 55\obj\Debug\net7.0\С8 Задача 55.csproj.AssemblyReference.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Задача 55\obj\Debug\net7.0\С8 Задача 55.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Задача 55\obj\Debug\net7.0\С8 Задача 55.AssemblyInfoInputs.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Задача 55\obj\Debug\net7.0\С8 Задача 55.AssemblyInfo.cs
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Задача 55\obj\Debug\net7.0\С8 Задача 55.csproj.CoreCompileInputs.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Задача 55\obj\Debug\net7.0\С8 Задача 55.dll
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Задача 55\obj\Debug\net7.0\refint\С8 Задача 55.dll
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Задача 55\obj\Debug\net7.0\С8 Задача 55.pdb
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Задача 55\obj\Debug\net7.0\С8 Задача 55.genruntimeconfig.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Задача 55\obj\Debug\net7.0\ref\С8 Задача 55.dll

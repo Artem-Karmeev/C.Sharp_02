@@ -1,0 +1,15 @@
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Рекурсия факториал\obj\Debug\net7.0\С8 Рекурсия факториал.csproj.AssemblyReference.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Рекурсия факториал\obj\Debug\net7.0\С8 Рекурсия факториал.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Рекурсия факториал\obj\Debug\net7.0\С8 Рекурсия факториал.AssemblyInfoInputs.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Рекурсия факториал\obj\Debug\net7.0\С8 Рекурсия факториал.AssemblyInfo.cs
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Рекурсия факториал\obj\Debug\net7.0\С8 Рекурсия факториал.csproj.CoreCompileInputs.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Рекурсия факториал\bin\Debug\net7.0\С8 Рекурсия факториал.exe
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Рекурсия факториал\bin\Debug\net7.0\С8 Рекурсия факториал.deps.json
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Рекурсия факториал\bin\Debug\net7.0\С8 Рекурсия факториал.runtimeconfig.json
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Рекурсия факториал\bin\Debug\net7.0\С8 Рекурсия факториал.dll
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Рекурсия факториал\bin\Debug\net7.0\С8 Рекурсия факториал.pdb
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Рекурсия факториал\obj\Debug\net7.0\С8 Рекурсия факториал.dll
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Рекурсия факториал\obj\Debug\net7.0\refint\С8 Рекурсия факториал.dll
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Рекурсия факториал\obj\Debug\net7.0\С8 Рекурсия факториал.pdb
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Рекурсия факториал\obj\Debug\net7.0\С8 Рекурсия факториал.genruntimeconfig.cache
+C:\Users\79996\Desktop\GB\Конспекты\3. с# Лекции\C#_git\C.Sharp_02\С8 Рекурсия факториал\obj\Debug\net7.0\ref\С8 Рекурсия факториал.dll

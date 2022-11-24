@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Возможен ли треугольник(семинар)/1.0.0": {
+        "runtime": {
+          "Возможен ли треугольник(семинар).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Возможен ли треугольник(семинар)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
